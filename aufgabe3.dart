@@ -1,4 +1,6 @@
-import 'aufgabe2.dart';
+int textCount(String text) {
+  return text.length;
+}
 
 int vowelsCount(String text) {
   String vowels = "aeiouAEIOU";
